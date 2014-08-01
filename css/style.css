@@ -95,6 +95,8 @@ img {
 .review {
 	background: #fff;
 	color: #000;
+    max-width: 500px;
+    margin: 0 auto;
 }
 
 
